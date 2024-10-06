@@ -107,5 +107,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgements
 
 - [PyInstaller](https://www.pyinstaller.org/)
-- [PyQt5](https://riverbankcomputing.com/software/pyqt/intro)
+- [PyQt5](https://pypi.org/project/PyQt5/)
 - [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap)
