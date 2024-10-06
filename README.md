@@ -1,5 +1,7 @@
 # WSLCloner
 
+![](./wslExample.PNG)
+
 WSLCloner is a Windows application built using Python and PyQt5. It is designed to clone WSL (Windows Subsystem for Linux) environments and manage them efficiently. This document provides step-by-step instructions for setting up and building the application on a Windows environment.
 
 ## Prerequisites
